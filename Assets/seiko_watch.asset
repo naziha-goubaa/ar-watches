@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3103dc4d867cbb5498a7aa843db9852a, type: 3}
+  m_Name: seiko_watch
+  m_EditorClassIdentifier: 
+  watchName: Seiko Coutura Radio Sync Solar
+  brand: Seiko
+  priceInDinar: 4200
+  description: "Montre solaire radio-synchronis\xE9e,               chronographe,
+    bracelet acier bleu,               r\xE9sistante 100m, mouvement solaire"
+  previewImage: {fileID: 21300000, guid: 5c22a3cb547907240bd510e31ca09e52, type: 3}
+  watchPrefab: {fileID: 546342429849654793, guid: 7b6e25a90ae58ae40ab5259f0ec312ad, type: 3}

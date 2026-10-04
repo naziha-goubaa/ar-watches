@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3103dc4d867cbb5498a7aa843db9852a, type: 3}
+  m_Name: digital_watch
+  m_EditorClassIdentifier: 
+  watchName: Digital Military Tactical Watch
+  brand: G-Shock Style
+  priceInDinar: 450
+  description: "Montre tactique militaire,               boussole digitale, altim\xE8tre,              
+    barom\xE8tre, r\xE9sistante chocs,               \xE9tanche 200m, solaire"
+  previewImage: {fileID: 21300000, guid: 25fc2359af4239f4c9ecc36ee42f6c19, type: 3}
+  watchPrefab: {fileID: 7525082465542810554, guid: 54fdf921b1ab7af4b9e6d0d671711fa2, type: 3}

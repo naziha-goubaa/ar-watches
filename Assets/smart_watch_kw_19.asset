@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3103dc4d867cbb5498a7aa843db9852a, type: 3}
+  m_Name: smart_watch_kw_19
+  m_EditorClassIdentifier: 
+  watchName: Smart Watch KW19 Pro
+  brand: KW Series
+  priceInDinar: 85
+  description: "\xC9cran AMOLED rond, moniteur cardiaque,               podom\xE8tre,
+    notifications Bluetooth,               autonomie 7 jours"
+  previewImage: {fileID: 21300000, guid: f80a1c56346a4a443a47c819f0a25dfc, type: 3}
+  watchPrefab: {fileID: 3443197533209209323, guid: fd6e0afc790d0674ab18a2aae03adcfa, type: 3}

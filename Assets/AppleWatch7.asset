@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3103dc4d867cbb5498a7aa843db9852a, type: 3}
+  m_Name: AppleWatch7
+  m_EditorClassIdentifier: 
+  watchName: Apple Watch Series 7 Skyblue
+  brand: Apple
+  priceInDinar: 2100
+  description: "\xC9dition Skyblue, bracelet silicone               bleu ciel, \xE9cran
+    45mm Always-On,               GPS, ECG, r\xE9sistant eau 50m"
+  previewImage: {fileID: 21300000, guid: b22423d64bb6f0b459abccb583e80bbb, type: 3}
+  watchPrefab: {fileID: 5805205353983824254, guid: 48764e331e84e154bbaa038b837ee46d, type: 3}

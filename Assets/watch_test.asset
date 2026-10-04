@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3103dc4d867cbb5498a7aa843db9852a, type: 3}
+  m_Name: watch_test
+  m_EditorClassIdentifier: 
+  watchName: TAG Heuer Carrera Chronographe
+  brand: TAG Heuer
+  priceInDinar: 12500
+  description: "Chronographe automatique, cadran bleu,               bo\xEEtier acier
+    44mm, bracelet acier,               \xE9tanche 100m, calibre Heuer 02"
+  previewImage: {fileID: 21300000, guid: cf6733a209183fa4396ea840f9d43484, type: 3}
+  watchPrefab: {fileID: 3938946076244772604, guid: aeca00fe4bbe23347a2b1dd3e7fe7551, type: 3}
